@@ -100,4 +100,4 @@ while input(str()) == si:
     else:
          print("No es una dificultad válida")
          break
-    
+"el rankink no he tenido ni idea de como hacerlo"
